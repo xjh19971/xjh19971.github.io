@@ -12,6 +12,6 @@ My research interest focuse on **Computer Vision**, **Pose Estimation**, **Reinf
 
 # Education
 
-<p align="left">**B.Eng. in Intelligence Science and Technology**</p><p align="right">2015-2019</p>
+**B.Eng. in Intelligence Science and Technology**            2015-2019    
 GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
