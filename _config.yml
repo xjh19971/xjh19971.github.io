@@ -6,12 +6,13 @@ defaults:
     values:
       layout: default
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Jiuhong Xiao
+subtitle: Master Student of Computer Science
+description: Courant Institute of Mathematical Sciences, New York University
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Bio
     link: /
     icon: ""
 
