@@ -8,7 +8,8 @@ defaults:
 
 title: Jiuhong Xiao
 subtitle: Master Student of Computer Science
-description: Courant Institute of Mathematical Sciences, New York University
+description1: Courant Institute of Mathematical Sciences
+description2: New York University
 
 # Side Menu Links
 menu:
