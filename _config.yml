@@ -15,34 +15,26 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
-    icon: ""
-
-  - text: Contact Me
-    link: /contact
-    icon: ""
-
-  - text: My Resume
-    link: /resume
+  - text: CV
+    link: /CV_Jiuhong_Xiao
     icon: ""
 
 # Socialmedia Icons
 social_icons:
   - name: linkedin
-    link: https://www.linkedin.com/christianezeani
+    link: https://www.linkedin.com/in/jiuhong-xiao-01bb4a1a1/
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/xjh19971
     icon: fab fa-github-square
 
   - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
+    link: https://www.facebook.com/profile.php?id=100014941903366
     icon: fab fa-facebook-square
 
   - name: twitter
-    link: https://www.twitter.com/christianezeani
+    link: https://twitter.com/xjh19971
     icon: fab fa-twitter
 
 # Google Analytics
