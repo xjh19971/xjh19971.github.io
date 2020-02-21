@@ -17,7 +17,7 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 * B.Eng in Intelligence Science and Technology, *University of Science and Technology Beijing (USTB)*, Sept. 2015 - July 2019  
     GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
-#Publications
+# Publications
 
 1. **TAB-IOL: Real-Time Pose Estimation and Tracking for Multiple Fish-Like Robots**  
     *Submitted, 2019*  
@@ -32,7 +32,7 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
     *PLOS ONE, 2018*  
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
 
-#Project
+# Project
 
 1. Object Identification System Based on Speech Feedback  
     *“Huawei Cup” Intelligence Design Contest, 2018*
@@ -40,7 +40,7 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
     *National Mathematical Modeling Competition, 2017*
 
     
-#Experiences
+# Experiences
 
 1. Intern in Product Department  
     *Ablecloud Co., Ltd, June 2017 - Sept. 2018*
@@ -49,7 +49,7 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 3.  Tutor of Arduino  
     *USTB Innovation Technology Center, Sept. 2016 - Sept. 2017*
 
-#Award
+# Award
 
 * Excellent Award of Undergraduate Thesis, USTB, 2019
 * People’s Scholarship, USTB, 2015-2019
