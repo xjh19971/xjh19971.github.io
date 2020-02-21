@@ -22,12 +22,15 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 1. **TAB-IOL: Real-Time Pose Estimation and Tracking for Multiple Fish-Like Robots**  
     *Submitted, 2019*  
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
+    
 2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks**  
     *Submitted, 2019*  
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
+    
 3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*  
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang  
+    
 4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**  
     *PLOS ONE, 2018*  
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
@@ -36,16 +39,18 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 
 * Object Identification System Based on Speech Feedback  
     “Huawei Cup” Intelligence Design Contest, 2018
+    
 * CT Image Reconstruction System  
     National Mathematical Modeling Competition, 2017
 
-    
 # Experiences
 
 * Intern in Product Department  
     Ablecloud Co., Ltd, June 2017 - Sept. 2018
+    
 * Intern of Software Engineer  
-    Beijing Beike Xinxing Science and Technology Co., Ltd, Dec. 2017 - May 2018
+    Beijing Beike Xinxing Science and Technology Co., Ltd, Dec. 2017 - May 2018   
+    
 * Tutor of Arduino  
     USTB Innovation Technology Center, Sept. 2016 - Sept. 2017
 
