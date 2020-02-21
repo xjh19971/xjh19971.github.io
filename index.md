@@ -12,9 +12,9 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 
 # Education
 
-* M.S of Computer Science, *New York University*, Jan. 2020 -     
+* M.S of Computer Science, New York University, Jan. 2020 -     
 
-* B.Eng in Intelligence Science and Technology, *University of Science and Technology Beijing (USTB)*, Sept. 2015 - July 2019  
+* B.Eng in Intelligence Science and Technology, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019  
     GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
 # Publications
@@ -34,20 +34,20 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 
 # Project
 
-1. Object Identification System Based on Speech Feedback  
-    *“Huawei Cup” Intelligence Design Contest, 2018*
-2. CT Image Reconstruction System  
-    *National Mathematical Modeling Competition, 2017*
+* Object Identification System Based on Speech Feedback  
+    “Huawei Cup” Intelligence Design Contest, 2018
+* CT Image Reconstruction System  
+    National Mathematical Modeling Competition, 2017
 
     
 # Experiences
 
-1. Intern in Product Department  
-    *Ablecloud Co., Ltd, June 2017 - Sept. 2018*
-2. Intern of Software Engineer  
-    *Beijing Beike Xinxing Science and Technology Co., Ltd, Dec. 2017 - May 2018*
-3.  Tutor of Arduino  
-    *USTB Innovation Technology Center, Sept. 2016 - Sept. 2017*
+* Intern in Product Department  
+    Ablecloud Co., Ltd, June 2017 - Sept. 2018
+* Intern of Software Engineer  
+    Beijing Beike Xinxing Science and Technology Co., Ltd, Dec. 2017 - May 2018
+* Tutor of Arduino  
+    USTB Innovation Technology Center, Sept. 2016 - Sept. 2017
 
 # Award
 
