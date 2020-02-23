@@ -12,9 +12,9 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 
 # Education
 
-* M.S of Computer Science, New York University, Jan. 2020 -     
+* **M.S of Computer Science**, New York University, Jan. 2020 -     
 
-* B.Eng in Intelligence Science and Technology, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019  
+* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019  
     GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
 # Publications
@@ -26,8 +26,8 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks**  
     *Submitted, 2019*  
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
-     <img src="./assets/images/ICRA_robotPlatform_page.jpg" alt="Network" style="zoom:15%;" /> <img src="./assets/images/ICRA_resultTrackingChallenge_page.jpg" alt="Network" style="zoom:60%;" /> <img src="./assets/images/ICRA_resultTrackingError_page.jpg" alt="Network" style="zoom:65%;" />
-     
+     <img src="./assets/images/ICRA_robotPlatform_page.jpg" alt="Network" style="zoom:10%;" /> <img src="./assets/images/ICRA_resultTrackingChallenge_page.jpg" alt="Network" style="zoom:50%;" /> <img src="./assets/images/ICRA_resultTracking_page.jpg" alt="Network" style="zoom:20%;" />
+    
 3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*  
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang  
