@@ -26,7 +26,7 @@ Besides, My past research inspires me to an idea called **associative learning**
 2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks**  
     *Submitted, 2019*  
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
-     <img src="./assets/images/ICRA_robotPlatform_page.jpg" alt="Network" style="zoom:10%;" /> <img src="./assets/images/ICRA_resultTrackingChallenge_page.jpg" alt="Network" style="zoom:50%;" /> <img src="./assets/images/ICRA_resultTracking_page.jpg" alt="Network" style="zoom:20%;" />
+     <img src="./assets/images/ICRA_robotPlatform_page.jpg" alt="Network" style="zoom:10%;" /> <img src="./assets/images/ICRA_resultTrackingChallenge_page.jpg" alt="Network" style="zoom:50%;" />
     
 3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*  
