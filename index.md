@@ -8,8 +8,8 @@ I am a Master student of Computer Science at Courant Institute of Mathematical S
 
 # Research Interests
 
-My research interests are on **Computer Vision**, **Pose Estimation**, **Reinforcement Learning on Robot Control**. Currently I am exploring on keypoint-based RL on Robot Control. Besides, I am inspired by my past research to use NNs to establish associative relationships between multiple objects.
-
+My past research interests are focused on **Computer Vision**, **Pose Estimation**, **Reinforcement Learning on Robot Control**. Currently I am exploring on keypoint-based RL on Robot Control.  
+Besides, My past research inspires me to an idea called **associative learning**. Recent research uses embedding network to construct relationship network. One similar idea can be transferred to associative relationship. A generative model can generate a possible associative object from relationship network. At the same time, I think that GNN can help constructing multi associative network. This relationship can also be applied on semi-supervised learning, because we can identify objects from its relationship with other objects rather than labeling them directly. 
 # Education
 
 * **M.S of Computer Science**, New York University, Jan. 2020 -     
