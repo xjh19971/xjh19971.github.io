@@ -17,7 +17,7 @@ My research interests are on **Computer Vision**, **Pose Estimation**, **Reinfor
 * **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019  
     GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
-# Publications
+# Research Experiences
 
 1. **TAB-IOL: Real-Time Pose Estimation and Tracking for Multiple Fish-Like Robots**  
     *Submitted, 2019*  
