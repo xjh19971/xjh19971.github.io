@@ -8,7 +8,7 @@ I am a Master student of Computer Science at Courant Institute of Mathematical S
 
 # Research Interests
 
-My past research interests are on **Computer Vision**, **Pose Estimation**, **Object Detection**. Currently I am working on extracting more accurate and various features from vision to help robots to interact with external environment better.   
+My past research interests are on **Computer Vision**, **Pose Estimation**, **Object Detection** and their application on **robots**. Currently I am working on extracting more accurate and various features from vision to help robots to interact with external environment better.   
 
 Besides, My past research inspires me to an idea about relationship learning. Recent research uses embedding network to construct relationship network. One similar idea can be transferred to building associative relationship between objects and predict target objects from this relationship. A generative model can generate a possible associative object from relationship network. Furthermore, I think that GNN can help constructing multi associative network. This relationship can also be applied on semi-supervised learning, because we can identify objects from its relationship with other objects rather than labeling them directly. 
 
