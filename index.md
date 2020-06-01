@@ -32,8 +32,9 @@ Besides, My past research inspires me to an idea about relationship learning. Re
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang    
 4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
     *PLOS ONE, 2018*   
-    Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**   
-# Selected Project
+    Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
+ 
+# Selected Projects
 
 * **Autodetection: An End-to-end Autonomous Driving Detection System** [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)  
     Collaborator: Xinmeng Li, Junrong Zha   
