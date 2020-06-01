@@ -16,27 +16,31 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 
 * **M.S of Computer Science**, New York University, Jan. 2020 -     
 
-* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019 
+* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019   
     GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
 # Publications
 
-1. **TAB-IOL: Real-Time Pose Estimation and Tracking for Multiple Fish-Like Robots** 
-    *Submitted, 2019* 
+1. **TAB-IOL: Real-Time Pose Estimation and Tracking for Multiple Fish-Like Robots**   
+    *Submitted, 2019*   
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
-2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks** 
-    *Submitted, 2019* 
+2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks**   
+    *Submitted, 2019*   
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
-3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks** 
-    *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018* 
+3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
+    *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*   
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang    
-4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control** 
-    *PLOS ONE, 2018* 
+4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
+    *PLOS ONE, 2018*   
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**   
 # Selected Project
 
-* **Autodetection: An End-to-end Autonomous Driving Detection System** [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)       Collaborator: Xinmeng Li, Junrong Zha                                                                                                       Advisor: Yann Lecun,  Alfredo Canziani
-* **A Survey of Bayesian Methods for Deep Learning** [Report](csci_3003_bayesian_neural_nets.pdf)                                                                   Collaborator: Hongyu Lu, Samuel Stanton                                                                                                               Advisor: Joan Bruna
+* **Autodetection: An End-to-end Autonomous Driving Detection System** [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)  
+    Collaborator: Xinmeng Li, Junrong Zha   
+    Advisor: Yann Lecun, Alfredo Canziani
+* **A Survey of Bayesian Methods for Deep Learning** [Report](csci_3003_bayesian_neural_nets.pdf)   
+    Collaborator: Hongyu Lu, Samuel Stanton   
+    Advisor: Joan Bruna
 
 # Experiences
 
