@@ -28,25 +28,27 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks**  
     *Submitted, 2019*  
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
-     <img src="./assets/images/ICRA_robotPlatform_page.jpg" alt="Network" style="zoom:10%;" /> <img src="./assets/images/ICRA_resultTrackingChallenge_page.jpg" alt="Network" style="zoom:50%;" />
     
 3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*  
-    **Jiuhong Xiao**, Weiping Wang, Meiqi Wang  
-    <img src="./assets/images/4.gif" alt="Network" style="zoom:35%;" /> <img src="./assets/images/5.gif" alt="Network" style="zoom:45%;" /> <img src="./assets/images/6.gif" alt="Network" style="zoom:45%;" />
+    **Jiuhong Xiao**, Weiping Wang, Meiqi Wang    
     
 4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**  
     *PLOS ONE, 2018*  
-    Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
-    <img src="./assets/images/1.PNG" alt="Network" style="zoom:8%;" /> <img src="./assets/images/2.PNG" alt="Network" style="zoom:8%;" /> <img src="./assets/images/3.PNG" alt="Network" style="zoom:8%;" />
-    
-# Project
+    Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**   
+# Selected Project
 
-* Object Identification System Based on Speech Feedback  
-    “Huawei Cup” Intelligence Design Contest, 2018
-    
-* CT Image Reconstruction System  
-    National Mathematical Modeling Competition, 2017
+* Autodetection: An End-to-end Autonomous Driving Detection System [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)
+
+    Collaborator: Xinmeng Li, Junrong Zha
+
+    Advisor: Yann Lecun,  Alfredo Canziani
+
+* A Survey of Bayesian Methods for Deep Learning [Report](csci_3003_bayesian_neural_nets.pdf)
+
+    Collaborator: Hongyu Lu, Samuel Stanton
+
+    Advisor: Joan Bruna
 
 # Experiences
 
