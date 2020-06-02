@@ -41,7 +41,7 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 
 * **Autodetection: An End-to-end Autonomous Driving Detection System** [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)  
     Collaborator: Xinmeng Li, Junrong Zha   
-    Advisor: Yann Lecun, Alfredo Canziani
+    Advisor: Yann LeCun, Alfredo Canziani
 
 * **A Survey of Bayesian Methods for Deep Learning** [Report](csci_3003_bayesian_neural_nets.pdf)   
     Collaborator: Hongyu Lu, Samuel Stanton   
