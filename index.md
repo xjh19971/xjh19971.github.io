@@ -49,11 +49,11 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 
 # Experiences
 
+* Research Assistant
+    Peking University, June 2019 - Jan. 2020
+
 * Intern in Product Department  
     Ablecloud Co., Ltd, June 2017 - Sept. 2018
-    
-* Intern of Software Engineer  
-    Beijing Beike Xinxing Science and Technology Co., Ltd, Dec. 2017 - May 2018   
     
 * Tutor of Arduino  
     USTB Innovation Technology Center, Sept. 2016 - Sept. 2017
