@@ -49,7 +49,7 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 
 # Experiences
 
-* Research Assistant
+* Research Assistant  
     Peking University, June 2019 - Jan. 2020
 
 * Intern in Product Department  
