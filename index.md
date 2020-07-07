@@ -8,25 +8,22 @@ I am a Master student of Computer Science at Courant Institute of Mathematical S
 
 # Research Interests
 
-My past research interests are on **Computer Vision**, **Pose Estimation**, **Object Detection** and their application on **robots**. Currently I am working on extracting more accurate and various features from vision to help robots to interact with external environment better.   
+My past research interests are on **Computer Vision**, **Pose Estimation**, **Object Detection**, and their connection. Currently I am working on **reducing the label cost of animal pose estimation**.
 
 Besides, My past research inspires me to an idea about relationship learning. Recent research uses embedding network to construct relationship network. One similar idea can be transferred to building associative relationship between objects and predict target objects from this relationship. A generative model can generate a possible associative object from relationship network. Furthermore, I think that GNN can help constructing multi associative network. This relationship can also be applied on semi-supervised learning, because we can identify objects from its relationship with other objects rather than labeling them directly. 
 
 # Education
 
 * **M.S of Computer Science**, New York University, Jan. 2020 -     
+    GPA: 4.0/4.0
 
 * **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sept. 2015 - July 2019   
     GPA: 87.2/100.0, Major GPA: 89.9/100.0 and Excellent Award of Undergraduate Thesis.
 
 # Publications
 
-1. **TAB-IOL: Real-Time Pose Estimation and Tracking for Multiple Fish-Like Robots**   
-    *Submitted, 2019*   
-    Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
-
-2. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks**   
-    *Submitted, 2019*   
+1. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks** [Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)   
+    *Submitted, 2020*   
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
 
 3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
@@ -36,10 +33,11 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
     *PLOS ONE, 2018*   
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
- 
+
 # Selected Projects
 
 * **Autodetection: An End-to-end Autonomous Driving Detection System** [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)  
+    *Winning the 2nd place of general ranking (roadmap prediction + object detection)*  
     Collaborator: Xinmeng Li, Junrong Zha   
     Advisor: Yann LeCun, Alfredo Canziani
 
