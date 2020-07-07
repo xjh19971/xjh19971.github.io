@@ -22,7 +22,7 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 
 # Publications
 
-1. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks** [Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)   
+1. **Real-time Pose Estimation and Tracking of Multiple Fish-like Robots: A Marker-less Method using Deep Neural Networks** **[Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)**   
     *Submitted, 2020*   
     Tianhao Zhang*, **Jiuhong Xiao\*,** Liang Li, Chen Wang, Wei Wang, Guangming Xie  
 
@@ -36,12 +36,12 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 
 # Selected Projects
 
-* **Autodetection: An End-to-end Autonomous Driving Detection System** [Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)  
+* **Autodetection: An End-to-end Autonomous Driving Detection System** **[Report](Autodetection.pdf) [Code](https://github.com/xjh19971/Autodetection)**  
     *Winning the 2nd place of general ranking (roadmap prediction + object detection)*  
     Collaborator: Xinmeng Li, Junrong Zha   
     Advisor: Yann LeCun, Alfredo Canziani
 
-* **A Survey of Bayesian Methods for Deep Learning** [Report](csci_3003_bayesian_neural_nets.pdf)   
+* **A Survey of Bayesian Methods for Deep Learning** **[Report](csci_3003_bayesian_neural_nets.pdf)**   
     Collaborator: Hongyu Lu, Samuel Stanton   
     Advisor: Joan Bruna
 
