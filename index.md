@@ -48,7 +48,7 @@ Besides, My past research inspires me to an idea about relationship learning. Re
 # Experiences
 
 * Research Assistant  
-    New York University, Fri 2020 - Present
+    New York University, May 2020 - Present
 
 * Research Assistant  
     Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
