@@ -51,9 +51,9 @@ Besides, My past research inspires me to an idea about relationship learning. Re
     New York University, Fri 2020 - Present
 
 * Research Assistant  
-    Peking University, Jun 2019 - Jan 2020
+    Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
 
-* Product Intern
+* Product Intern  
     Ablecloud Co., Ltd, Jun 2017 - Sep 2018
     
 * Tutor of Arduino  
