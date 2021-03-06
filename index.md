@@ -31,7 +31,10 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
 
 # Selected Projects
-
+* **GPU Accelerated Applications with CUDA and OpenMP**    **[Report](proj1.pdf)**  
+    Collaborator: Zhen Li   
+    Advisor: Mohamed Zahran
+    
 * **Autodetection: An End-to-end Autonomous Driving Detection System**    **[Report](Autodetection.pdf)    [Code](https://github.com/xjh19971/Autodetection)**  
     *Winning the 2nd place of general ranking (roadmap prediction + object detection)*  
     Collaborator: Xinmeng Li, Junrong Zha   
@@ -41,8 +44,9 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     Collaborator: Hongyu Lu, Samuel Stanton   
     Advisor: Joan Bruna
     
-* **Robotic Fish Pose Dataset** **[Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)**  
+* **Robotic Fish Pose Dataset**    **[Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)**  
     Collaborator: Tianhao Zhang
+    
 # Experiences
 
 * Research Assistant  
