@@ -17,7 +17,7 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 # Education
 
 * **M.S of Computer Science**, New York University, Jan 2020 - Present
-    GPA: 3.95/4.0
+    GPA: 3.93/4.0
 
 * **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sep 2015 - Jul 2019   
     GPA: 3.65/4.00, Major GPA: 3.81/4.00.
