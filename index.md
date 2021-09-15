@@ -24,15 +24,19 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Publications
 
-1. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
+1. **Multi-Robot Collaborative Perception with Graph Neural Networks**  
+    *Under Review*  
+    Yang Zhou, **Jiuhong Xiao**, Yue Zhou, Giuseppe Loianno    
+
+2. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
     *IEEE/CAA Journal of Automatica Sinica*  
     Tianhao Zhang, **Jiuhong Xiao**, Liang Li, Chen Wang, Guangming Xie    
 
-2. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
+3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*   
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang    
 
-3. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
+4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
     *PLOS ONE, 2018*   
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
 
@@ -46,12 +50,6 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 * Research Assistant  
     Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
-
-* Product Intern  
-    Ablecloud Co., Ltd, Jun 2017 - Sep 2018
-    
-* Tutor of Arduino  
-    USTB Innovation Technology Center, Sep 2016 - Dec 2017
 
 # Selected Projects
 * **GPU Accelerated Applications with CUDA and OpenMP**    **[Report](proj1.pdf)**  
