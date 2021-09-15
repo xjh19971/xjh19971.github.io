@@ -8,6 +8,8 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 
 # Research Interests
 
+**Computer Vision**, **Deep reinforcement learning**, **Multi-view perception**
+
 My current research are focused on reinforcement learning method for autonomous driving policy(**[Link](https://github.com/Atcold/pytorch-PPUU)**).
 
 Besides, I am interested in using GNN to improve the performance of multiple tasks with multi-view cameras. 
