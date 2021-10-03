@@ -16,11 +16,11 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Education
 
-* **M.S of Computer Science**, New York University, Jan 2020 - Present
-    GPA: 3.93/4.0
+* **M.S of Computer Science**, New York University, Jan 2020 - Dec 2021
+    GPA: 3.94/4.0
 
 * **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sep 2015 - Jul 2019   
-    GPA: 3.65/4.00, Major GPA: 3.81/4.00.
+    GPA: 3.65/4.0, Major GPA: 3.81/4.0.
 
 # Publications
 
@@ -29,7 +29,7 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     Yang Zhou, **Jiuhong Xiao**, Yue Zhou, Giuseppe Loianno    
 
 2. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
-    *IEEE/CAA Journal of Automatica Sinica*  
+    *IEEE/CAA Journal of Automatica Sinica, 2021*  
     Tianhao Zhang, **Jiuhong Xiao**, Liang Li, Chen Wang, Guangming Xie    
 
 3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
@@ -42,6 +42,9 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Experiences
 
+* Graduate Assistant  
+    New York University, Sep 2021 - Present
+
 * Applied Scientist Intern   
     Amazon, May 2021 - Augest 2021
 
@@ -52,6 +55,10 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
 
 # Selected Projects
+* **Multi-robot Perception with Graph Convolution Network**  
+    Collaborator: Yang Zhou, Yue Zhou
+    Advisor: Rob Fergus
+
 * **GPU Accelerated Applications with CUDA and OpenMP**    **[Report](proj1.pdf)**  
     Collaborator: Zhen Li   
     Advisor: Mohamed Zahran
@@ -66,13 +73,14 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     Advisor: Joan Bruna
     
 * **Robotic Fish Pose Dataset**    **[Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)**  
-    Collaborator: Tianhao Zhang
+    Collaborator: Tianhao Zhang   
+    Advisor: Guangming Xie
     
 # Award
 
 * Excellent Award of Undergraduate Thesis, USTB, 2019
 * People's Scholarship, USTB, 2015-2019
-* Third Prize, "Huawei Cup" Chinese College Students Intelligence Design Contest, 2018
+* Third Prize, Chinese College Students Intelligence Design Contest, Beijing, 2018
 * First Prize, Mathematical Modeling Competition, Beijing, 2017
 * Excellence Award, Boer National College Students Innovation Entrepreneurship Competition, Beijing, 2017
 * Second Prize, Sensor Design Competition, USTB, 2016
