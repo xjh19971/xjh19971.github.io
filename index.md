@@ -20,7 +20,7 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     GPA: 3.94/4.0
 
 * **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sep 2015 - Jul 2019    
-    GPA: 3.65/4.0, Major GPA: 3.81/4.0.
+    GPA: 3.65/4.0, Major GPA: 3.84/4.0.
 
 # Publications
 
