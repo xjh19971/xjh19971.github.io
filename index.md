@@ -16,10 +16,10 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Education
 
-* **M.S of Computer Science**, New York University, Jan 2020 - Dec 2021
+* **M.S of Computer Science**, New York University, Jan 2020 - Dec 2021    
     GPA: 3.94/4.0
 
-* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sep 2015 - Jul 2019   
+* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sep 2015 - Jul 2019    
     GPA: 3.65/4.0, Major GPA: 3.81/4.0.
 
 # Publications
@@ -42,7 +42,7 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Experiences
 
-* Graduate Assistant  
+* Graduate Teaching Assistant  
     New York University, Sep 2021 - Present
 
 * Applied Scientist Intern   
@@ -56,7 +56,7 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Selected Projects
 * **Multi-robot Perception with Graph Convolution Network**  
-    Collaborator: Yang Zhou, Yue Zhou
+    Collaborator: Yang Zhou, Yue Zhou    
     Advisor: Rob Fergus
 
 * **GPU Accelerated Applications with CUDA and OpenMP**    **[Report](proj1.pdf)**  
