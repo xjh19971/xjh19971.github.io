@@ -21,6 +21,10 @@ menu:
     link: /Jiuhong_Xiao_CV.pdf
     icon: ""
 
+  - text: Transcript
+    link: /NYU_Transcript.pdf
+    icon: ""
+
 # Socialmedia Icons
 social_icons:
   - name: linkedin
