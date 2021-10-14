@@ -45,13 +45,13 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 * Graduate Teaching Assistant  
     New York University, Sep 2021 - Present
 
-* Applied Scientist Intern   
+* Applied Scientist Intern
     Amazon, May 2021 - Augest 2021
 
-* Research Assistant  
+* Research Assistant (Advisor: Alfredo Canziani, Yann LeCun)
     New York University, May 2020 - May 2021
 
-* Research Assistant  
+* Research Assistant (Advisor: Guangming Xie)
     Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
 
 # Selected Projects
