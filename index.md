@@ -8,7 +8,7 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 
 # Research Interests
 
-**Computer Vision**, **Deep reinforcement learning**, **Multi-view perception**
+**Computer Vision**, **Robotics**, **Deep reinforcement learning**, **Multi-view perception**, **Autonomous driving**
 
 My current research are focused on reinforcement learning method for autonomous driving policy(**[Link](https://github.com/Atcold/pytorch-PPUU)**).
 
@@ -24,19 +24,23 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 
 # Publications
 
-1. **Multi-Robot Collaborative Perception with Graph Neural Networks**  
-    *Under Review*  
+1. **Identity Preserving Loss for Learnt Image Compression**  
+    *Submitted*  
+    **Jiuhong Xiao**, Lavisha Aggarwal, Prithviraj Banerjee, Manoj Aggarwal, Gerard Medioni   
+
+2. **Multi-Robot Collaborative Perception with Graph Neural Networks**  
+    *Submitted*  
     Yang Zhou, **Jiuhong Xiao**, Yue Zhou, Giuseppe Loianno    
 
-2. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
+3. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
     *IEEE/CAA Journal of Automatica Sinica, 2021*  
     Tianhao Zhang, **Jiuhong Xiao**, Liang Li, Chen Wang, Guangming Xie    
 
-3. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
+4. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*   
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang    
 
-4. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
+5. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
     *PLOS ONE, 2018*   
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
 
