@@ -19,7 +19,7 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
 * **M.S of Computer Science**, New York University, Jan 2020 - Dec 2021    
     GPA: 3.94/4.0
 
-* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Sep 2015 - Jul 2019    
+* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Aug 2015 - Jun 2019    
     GPA: 3.65/4.0, Major GPA: 3.84/4.0.
 
 # Publications
@@ -59,6 +59,10 @@ Besides, I am interested in using GNN to improve the performance of multiple tas
     Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
 
 # Selected Projects
+* **Autonomous Drone Inspection with Deep Reinforcement Learning**  **[Blog](https://yangzhou.blot.im/autonomous-drone-inspection-with-deep-reinforcement-learning)    [Code](https://github.com/xjh19971/Autonomous-Drone-Inspection-with-DRL)**  
+    Collaborator: Yang Zhou
+    Advisor: Lerrel Pinto
+
 * **Multi-robot Perception with Graph Convolution Network**  
     Collaborator: Yang Zhou, Yue Zhou    
     Advisor: Rob Fergus
