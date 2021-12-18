@@ -43,7 +43,7 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 # Experiences
 
 * Graduate Teaching Assistant  
-    New York University, Sep 2021 - Present
+    New York University, Sep 2021 - Dec 2021
 
 * Applied Scientist Intern  
     Amazon, May 2021 - Augest 2021
@@ -56,7 +56,7 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 
 # Selected Projects
 * **Autonomous Drone Inspection with Deep Reinforcement Learning**  **[Blog](https://yangzhou.blot.im/autonomous-drone-inspection-with-deep-reinforcement-learning)    [Code](https://github.com/xjh19971/Autonomous-Drone-Inspection-with-DRL)**  
-    Collaborator: Yang Zhou
+    Collaborator: Yang Zhou  
     Advisor: Lerrel Pinto
 
 * **Multi-robot Perception with Graph Convolution Network**  
