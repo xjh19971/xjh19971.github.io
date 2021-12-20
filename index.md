@@ -25,7 +25,7 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
     **Jiuhong Xiao**, Lavisha Aggarwal, Prithviraj Banerjee, Manoj Aggarwal, Gerard Medioni   
 
 2. **Multi-Robot Collaborative Perception with Graph Neural Networks**  
-    *Submitted*  
+    *Accepted by IEEE Robotics and Automation Letters (RA-L)*  
     Yang Zhou, **Jiuhong Xiao**, Yue Zhou, Giuseppe Loianno    
 
 3. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
