@@ -42,6 +42,9 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 
 # Experiences
 
+* Applied Scientist  
+    Amazon, Jan 2022 - Present
+
 * Graduate Teaching Assistant  
     New York University, Sep 2021 - Dec 2021
 
