@@ -4,7 +4,7 @@ layout: default
 
 # About		
 
-I am a Master Student of Computer Science at Courant Institute of Mathematical Sciences, New York University. Prior to this, I got my Bachelor Degree of Engineering at Deparment of Automation, University of Science and Technology Beijing, in 2019.
+I am a Robotic Ph.D. Student at Tandon School of Engineering, New York University. Prior to this, I got my Master Degree of Computer Science at New York University and my Bachelor Degree of Engineering at Deparment of Automation, University of Science and Technology Beijing, in 2019.
 
 # Research Interests
 
@@ -12,20 +12,23 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 
 # Education
 
-* **M.S of Computer Science**, New York University, Jan 2020 - Dec 2021    
+* **Ph.D. of Electrical Engineering**, New York University, Sep 2022 - May 2027 (expected)    
+    GPA: ?/4.0
+
+* **M.S. of Computer Science**, New York University, Jan 2020 - Dec 2021    
     GPA: 3.94/4.0
 
-* **B.Eng in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Aug 2015 - Jun 2019    
+* **B.Eng. in Intelligence Science and Technology**, University of Science and Technology Beijing (USTB), Aug 2015 - Jun 2019    
     GPA: 3.65/4.0, Major GPA: 3.84/4.0.
 
 # Publications
 
 1. **Identity Preserving Loss for Learnt Image Compression**  
-    *Submitted*  
+    *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2022*  
     **Jiuhong Xiao**, Lavisha Aggarwal, Prithviraj Banerjee, Manoj Aggarwal, Gerard Medioni   
 
 2. **Multi-Robot Collaborative Perception with Graph Neural Networks**  
-    *Accepted by IEEE Robotics and Automation Letters (RA-L)*  
+    *IEEE Robotics and Automation Letters (RA-L), 2021*  
     Yang Zhou, **Jiuhong Xiao**, Yue Zhou, Giuseppe Loianno    
 
 3. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
@@ -43,7 +46,7 @@ I am a Master Student of Computer Science at Courant Institute of Mathematical S
 # Experiences
 
 * Applied Scientist  
-    Amazon, Jan 2022 - Present
+    Amazon, Jan 2022 - Aug 2022
 
 * Graduate Teaching Assistant  
     New York University, Sep 2021 - Dec 2021
