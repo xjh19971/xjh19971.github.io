@@ -7,8 +7,8 @@ defaults:
       layout: default
 
 title: Jiuhong Xiao
-subtitle: Master Student of Computer Science
-description1: Courant Institute of Mathematical Sciences
+subtitle: Ph.D. student of Electrical Engineering
+description1: Tandon School of Engineering
 description2: New York University
 
 # Side Menu Links
@@ -19,10 +19,6 @@ menu:
 
   - text: CV
     link: /Jiuhong_Xiao_CV.pdf
-    icon: ""
-
-  - text: Transcript
-    link: /NYU_Transcript.pdf
     icon: ""
 
 # Socialmedia Icons
