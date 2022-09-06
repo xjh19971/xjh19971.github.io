@@ -4,7 +4,7 @@ layout: default
 
 # About		
 
-I am a Robotic Ph.D. Student at Tandon School of Engineering, New York University. Prior to this, I got my Master Degree of Computer Science at New York University and my Bachelor Degree of Engineering at Deparment of Automation, University of Science and Technology Beijing, in 2019.
+I am a Robotic Ph.D. Student at Tandon School of Engineering, New York University. Prior to this, I got my Master Degree of Computer Science at New York University, and my Bachelor Degree of Engineering at Deparment of Automation, University of Science and Technology Beijing.
 
 # Research Interests
 
