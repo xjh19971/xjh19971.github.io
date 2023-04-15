@@ -4,16 +4,12 @@ layout: default
 
 # About		
 
-I am a Robotic Ph.D. Student at Tandon School of Engineering, New York University. Prior to this, I got my Master Degree of Computer Science at New York University, and my Bachelor Degree of Engineering at Department of Automation, University of Science and Technology Beijing.
-
-# Research Interests
-
-**Computer Vision**, **Robotics**, **Deep reinforcement learning**, **Multi-view perception**, **Autonomous driving**
+I am a Electrical and Computer Engineering Ph.D. Student at Tandon School of Engineering, New York University. Prior to this, I got my Master Degree of Computer Science at New York University, and my Bachelor Degree of Engineering at Department of Automation, University of Science and Technology Beijing.
 
 # Education
 
 * **Ph.D. of Electrical Engineering**, New York University, Sep 2022 - May 2027 (expected)    
-    GPA: ?/4.0
+    GPA: 4.0/4.0
 
 * **M.S. of Computer Science**, New York University, Jan 2020 - Dec 2021    
     GPA: 3.94/4.0
@@ -48,26 +44,13 @@ I am a Robotic Ph.D. Student at Tandon School of Engineering, New York Universit
 * Applied Scientist  
     Amazon, Jan 2022 - Aug 2022
 
-* Graduate Teaching Assistant  
-    New York University, Sep 2021 - Dec 2021
-
 * Applied Scientist Intern  
     Amazon, May 2021 - Augest 2021
-
-* Research Assistant (Advisor: Alfredo Canziani, Yann LeCun)  
-    New York University, May 2020 - May 2021
-
-* Research Assistant (Advisor: Guangming Xie)  
-    Intelligent Biomimetic Design Laboratory, Peking University, Jun 2019 - Jan 2020
 
 # Selected Projects
 * **Autonomous Drone Inspection with Deep Reinforcement Learning**  **[Blog](https://yangzhou.blot.im/autonomous-drone-inspection-with-deep-reinforcement-learning)    [Code](https://github.com/xjh19971/Autonomous-Drone-Inspection-with-DRL)**  
     Collaborator: Yang Zhou  
     Advisor: Lerrel Pinto
-
-* **Multi-robot Perception with Graph Convolution Network**  
-    Collaborator: Yang Zhou, Yue Zhou    
-    Advisor: Rob Fergus
 
 * **GPU Accelerated Applications with CUDA and OpenMP**    **[Report](proj1.pdf)**  
     Collaborator: Zhen Li   
@@ -81,10 +64,6 @@ I am a Robotic Ph.D. Student at Tandon School of Engineering, New York Universit
 * **A Survey of Bayesian Methods for Deep Learning**    **[Report](csci_3003_bayesian_neural_nets.pdf)**   
     Collaborator: Hongyu Lu, Samuel Stanton   
     Advisor: Joan Bruna
-    
-* **Robotic Fish Pose Dataset**    **[Data](https://github.com/xjh19971/Robotic-Fish-Pose-Dataset)**  
-    Collaborator: Tianhao Zhang   
-    Advisor: Guangming Xie
     
 # Award
 
