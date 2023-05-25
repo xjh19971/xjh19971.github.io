@@ -48,22 +48,14 @@ I am a Electrical and Computer Engineering Ph.D. Student at Tandon School of Eng
     Amazon, May 2021 - Augest 2021
 
 # Selected Projects
-# * **Autonomous Drone Inspection with Deep Reinforcement Learning**  **[Blog](https://yangzhou.blot.im/autonomous-drone-inspection-with-deep-reinforcement-learning)    [Code](https://github.com/xjh19971/Autonomous-Drone-Inspection-with-DRL)**  
-#     Collaborator: Yang Zhou  
-#     Advisor: Lerrel Pinto
+
+* **Video Stabilization with Classical Methods**    **[Report](proj2.pdf)**  
+    Collaborator: Jennifer Yeom   
+    Advisor: Yao Wang
 
 * **GPU Accelerated Applications with CUDA and OpenMP**    **[Report](proj1.pdf)**  
     Collaborator: Zhen Li   
     Advisor: Mohamed Zahran
-    
-# * **Autodetection: An End-to-end Autonomous Driving Detection System**    **[Report](Autodetection.pdf)    [Code](https://github.com/xjh19971/Autodetection)**  
-#     *Winning the 2nd place of general ranking (roadmap prediction + object detection)*  
-#     Collaborator: Xinmeng Li, Junrong Zha   
-#     Advisor: Yann LeCun, Alfredo Canziani
-
-# * **A Survey of Bayesian Methods for Deep Learning**    **[Report](csci_3003_bayesian_neural_nets.pdf)**   
-#     Collaborator: Hongyu Lu, Samuel Stanton   
-#     Advisor: Joan Bruna
     
 # Award
 
