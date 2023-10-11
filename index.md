@@ -4,7 +4,7 @@ layout: default
 
 # About		
 
-I am a Electrical and Computer Engineering Ph.D. Student at Tandon School of Engineering, New York University. Prior to this, I got my Master Degree of Computer Science at New York University, and my Bachelor Degree of Engineering at Department of Automation, University of Science and Technology Beijing.
+I am a Electrical and Computer Engineering Ph.D. Student at Tandon School of Engineering, New York University, with my advisor, Prof. [Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno). Prior to this, I got my Master Degree of Computer Science at New York University, and my Bachelor Degree of Engineering at Department of Automation, University of Science and Technology Beijing.
 
 # Education
 
@@ -19,23 +19,27 @@ I am a Electrical and Computer Engineering Ph.D. Student at Tandon School of Eng
 
 # Publications
 
-1. **Identity Preserving Loss for Learnt Image Compression**  
+**Long-range UAV Thermal Geo-localization with Satellite Imagery**  
+    *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023*  
+    **Jiuhong Xiao**, Daniel Tortei, Eloy Roura, Giuseppe Loianno   
+
+**Identity Preserving Loss for Learnt Image Compression**  
     *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2022*  
     **Jiuhong Xiao**, Lavisha Aggarwal, Prithviraj Banerjee, Manoj Aggarwal, Gerard Medioni   
 
-2. **Multi-Robot Collaborative Perception with Graph Neural Networks**  
+**Multi-Robot Collaborative Perception with Graph Neural Networks**  
     *IEEE Robotics and Automation Letters (RA-L), 2021*  
     Yang Zhou, **Jiuhong Xiao**, Yue Zhou, Giuseppe Loianno    
 
-3. **Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
+**Toward Coordination Control of Multiple Fish-Like Robots: Real-Time Vision-Based Pose Estimation and Tracking via Deep Neural Networks**  
     *IEEE/CAA Journal of Automatica Sinica, 2021*  
     Tianhao Zhang, **Jiuhong Xiao**, Liang Li, Chen Wang, Guangming Xie    
 
-4. **Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
+**Image Encryption Algorithm Based on Memristive BAM Neural Networks**  
     *IEEE Third International Conference on Data Science in Cyberspace (DSC), 2018*   
     **Jiuhong Xiao**, Weiping Wang, Meiqi Wang    
 
-5. **The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
+**The stability of memristive multidirectional associative memory neural networks with time-varying delays in the leakage terms via sampled-data control**   
     *PLOS ONE, 2018*   
     Weiping Wang, Xin Xiao Yu, Xiong Luo, Long Wang, Lixiang Li, Juergen Kurths, Wenbing Zhao, **Jiuhong Xiao**  
 
@@ -72,7 +76,7 @@ I am a Electrical and Computer Engineering Ph.D. Student at Tandon School of Eng
 
 # Award
 
-* School of Engineering Fellowship, NYU, 2022
+* School of Engineering Fellowship, NYU, 2022-2023
 * Excellent Award of Undergraduate Thesis, USTB, 2019
 * People's Scholarship, USTB, 2015-2019
 * First Prize, Mathematical Modeling Competition, Beijing, 2017
