@@ -11,9 +11,9 @@ title                    : "Jiuhong's Homepage"
 title_separator          : "-"
 name                     : &name "Jiuhong Xiao"
 description              : &description "Robotics PhD student at NYU"
-url                      : https://xjh19972.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xjh19971.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xjh19971/xjh19972.github.io"
+repository               : "xjh19971/xjh19971.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
