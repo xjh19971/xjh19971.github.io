@@ -24,4 +24,4 @@ Prior to this, I completed my Bachelor's Degree in Engineering from the Departme
 </ul>
 </p>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-MWEhEwXL18-z6a71He_v6wDa3SbINMR5BwKBAOMCJk&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=-MWEhEwXL18-z6a71He_v6wDa3SbINMR5BwKBAOMCJk'></script>
