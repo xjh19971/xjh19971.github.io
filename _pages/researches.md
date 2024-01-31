@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## 2023
+## 2024
 
 <ul style="list-style-type:square">
 
@@ -31,6 +31,8 @@ author_profile: true
   <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
 </div>
 </li>
+
+## 2023
 
 <li>
 <div class="title">Long-range UAV Thermal Geo-localization with Satellite Imagery</div>
@@ -89,6 +91,7 @@ author_profile: true
 
 <ul>
 <li><div class="description">IEEE Transactions on Robotics</div></li>
-<li><div class="description">IEEE Robotics and Automation Letters</div></li>
-<li><div class="description">IEEE International Conference on Robotics and Automation</div></li>
+<li><div class="description">IEEE Robotics and Automation Letters </div></li>
+<li><div class="description">IEEE International Conference on Robotics and Automation (ICRA) 2024</div></li>
+<li><div class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</div></li>
 </ul>

@@ -17,6 +17,7 @@ Prior to this, I completed my Bachelor's Degree in Engineering from the Departme
 
 <p class="aboutme">
 <ul style="list-style-type:square">
+  <li><b>Jan, 2024</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> accepted in ICRA 2024.</li>
   <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a>.</li>
   <li><b>Jun, 2023</b>. <a href="https://arxiv.org/abs/2306.02994">Paper article</a> accepted in IROS 2023.</li>
   <li><b>Sep, 2022</b>. Joined Agile Robotics and Perception Lab.</li>  
