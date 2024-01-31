@@ -32,7 +32,11 @@ author_profile: true
 </div>
 </li>
 
+</ul>
+
 ## 2023
+
+<ul style="list-style-type:square">
 
 <li>
 <div class="title">Long-range UAV Thermal Geo-localization with Satellite Imagery</div>
