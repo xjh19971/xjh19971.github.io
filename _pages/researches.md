@@ -43,6 +43,7 @@ author_profile: true
 <div class="description"><u>J. Xiao</u>, D. Tortei, E. Roura, G. Loianno</div>
 <div class="description">IEEE International Conference on Intelligent Robots and Systems (IROS)</div>
 <div class="description">
+  <a href="https://xjh19971.github.io/STGL/">Project</a>
   <a href="https://arxiv.org/pdf/2306.02994.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/satellite-thermal-geo-localization">Code</a>
   <a href="https://www.youtube.com/watch?v=KVHFcNsK8Bg">Video</a>
