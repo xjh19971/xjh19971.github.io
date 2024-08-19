@@ -16,6 +16,17 @@ author_profile: true
 <ul style="list-style-type:square">
 
 <li>
+<div class="title">STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery</div>
+<div class="description"><u>J. Xiao</u>, N. Zhang, D. Tortei, G. Loianno</div>
+<div class="description"><em>IEEE Robotics and Automation Letters (RA-L)</em></div>
+<div class="description">
+  <a href="https://xjh19971.github.io/STHN/">Project</a>
+  <a href="https://arxiv.org/abs/2405.20470.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/STHN">Code</a>
+</div>
+</li>
+
+<li>
 <div class="title">Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories</div>
 <div class="description">A. Saviolo*, P. Rao*, V. Radhakrishnan, <u>J. Xiao</u>, G. Loianno</div>
 <div class="description"><em>IEEE International Conference on Robotics and Automation (ICRA)</em></div>
@@ -99,5 +110,6 @@ author_profile: true
 <li><div class="description">IEEE Transactions on Robotics</div></li>
 <li><div class="description">IEEE Robotics and Automation Letters </div></li>
 <li><div class="description">IEEE International Conference on Robotics and Automation (ICRA) 2024</div></li>
+<li><div class="description">IEEE International Conference on Intelligent Robots and Systems (IROS) 2024</div></li>
 <li><div class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</div></li>
 </ul>
