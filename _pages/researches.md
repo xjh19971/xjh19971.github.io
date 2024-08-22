@@ -21,7 +21,7 @@ author_profile: true
 <div class="description"><em>IEEE Robotics and Automation Letters (RA-L)</em></div>
 <div class="description">
   <a href="https://xjh19971.github.io/STHN/">Project</a>
-  <a href="https://arxiv.org/abs/2405.20470.pdf">Paper</a>
+  <a href="https://arxiv.org/pdf/2405.20470.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/STHN">Code</a>
 </div>
 </li>
@@ -80,7 +80,7 @@ author_profile: true
 <li>
 <div class="title">Multi-Robot Collaborative Perception with Graph Neural Networks</div>
 <div class="description">Y. Zhou, <u>J. Xiao</u>, Y. Zhou, G. Loianno</div>
-<div class="description"><em>IEEE Robotics and Automation Letters</em></div>
+<div class="description"><em>IEEE Robotics and Automation Letters (RA-L)</em></div>
 <div class="description">
   <a href="https://arxiv.org/abs/2201.01760.pdf">Paper</a>
   <a href="https://www.youtube.com/watch?v=2bdhLI3dqo0">Video</a>
