@@ -112,4 +112,5 @@ author_profile: true
 <li><div class="description">IEEE International Conference on Robotics and Automation (ICRA) 2024</div></li>
 <li><div class="description">IEEE International Conference on Intelligent Robots and Systems (IROS) 2024</div></li>
 <li><div class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</div></li>
+<li><div class="description">Annual AAAI Conference on Artificial Intelligence (AAAI) 2025</div></li>
 </ul>
