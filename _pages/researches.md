@@ -23,6 +23,7 @@ author_profile: true
   <a href="https://xjh19971.github.io/STHN/">Project</a>
   <a href="https://arxiv.org/pdf/2405.20470.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/STHN">Code</a>
+  <a href="https://youtu.be/gHu2oYoTqiI">Video</a>
 </div>
 </li>
 
