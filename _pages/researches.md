@@ -11,6 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
+## 2025
+
+<ul style="list-style-type:square">
+
+<li>
+<div class="title">VG-SSL: Benchmarking Self-supervised Representation Learning Approaches for Visual Geo-localization</div>
+<div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
+<div class="description"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</em></div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/VG-SSL">Code</a>
+</div>
+</li>
+
+</ul>
+
 ## 2024
 
 <ul style="list-style-type:square">
@@ -30,19 +46,10 @@ author_profile: true
 <li>
 <div class="title">Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories</div>
 <div class="description">A. Saviolo*, P. Rao*, V. Radhakrishnan, <u>J. Xiao</u>, G. Loianno</div>
-<div class="description"><em>IEEE International Conference on Robotics and Automation (ICRA)</em></div>
+<div class="description"><em>IEEE International Conference on Robotics and Automation (ICRA) 2024</em></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2310.04781.pdf">Paper</a>
   <a href="https://youtu.be/35sX9C1wUpA">Video</a>
-</div>
-</li>
-
-<li>
-<div class="title">VG-SSL: Benchmarking Self-supervised Representation Learning Approaches for Visual Geo-localization</div>
-<div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
-<div class="description">
-  <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
-  <a href="https://github.com/arplaboratory/VG-SSL">Code</a>
 </div>
 </li>
 
