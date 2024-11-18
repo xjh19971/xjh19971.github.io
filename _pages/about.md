@@ -17,6 +17,7 @@ Prior to this, I completed my Bachelor's Degree in Engineering from the Departme
 
 <p class="aboutme">
 <ul style="list-style-type:square">
+  <li><b>Aug, 2024</b>. <a href="https://arxiv.org/abs/2308.00090">Paper</a> accepted in WACV 2025.</li>
   <li><b>Aug, 2024</b>. <a href="https://arxiv.org/abs/2405.20470">Paper</a> accepted in RA-L.</li>
   <li><b>Jan, 2024</b>. <a href="https://arxiv.org/abs/2310.04781">Paper</a> accepted in ICRA 2024.</li>
   <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a>.</li>

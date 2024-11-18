@@ -38,10 +38,11 @@ author_profile: true
 </li>
 
 <li>
-<div class="title">Visual Geo-localization with Self-supervised Representation Learning</div>
+<div class="title">VG-SSL: Benchmarking Self-supervised Representation Learning Approaches for Visual Geo-localization</div>
 <div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/VG-SSL">Code</a>
 </div>
 </li>
 
