@@ -46,7 +46,7 @@ author_profile: true
 <li>
 <div class="title">Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories</div>
 <div class="description">A. Saviolo*, P. Rao*, V. Radhakrishnan, <u>J. Xiao</u>, G. Loianno</div>
-<div class="description"><em>IEEE International Conference on Robotics and Automation (ICRA) 2024</em></div>
+<div class="description"><em>IEEE International Conference on Robotics and Automation (ICRA)</em></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2310.04781.pdf">Paper</a>
   <a href="https://youtu.be/35sX9C1wUpA">Video</a>
