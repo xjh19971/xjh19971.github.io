@@ -11,6 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
+## 2025
+
+<ul style="list-style-type:square">
+
+<li>
+<div class="title">VG-SSL: Benchmarking Self-supervised Representation Learning Approaches for Visual Geo-localization</div>
+<div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
+<div class="description"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</em></div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/VG-SSL">Code</a>
+</div>
+</li>
+
+</ul>
+
 ## 2024
 
 <ul style="list-style-type:square">
@@ -21,8 +37,9 @@ author_profile: true
 <div class="description"><em>IEEE Robotics and Automation Letters (RA-L)</em></div>
 <div class="description">
   <a href="https://xjh19971.github.io/STHN/">Project</a>
-  <a href="https://arxiv.org/abs/2405.20470.pdf">Paper</a>
+  <a href="https://arxiv.org/pdf/2405.20470.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/STHN">Code</a>
+  <a href="https://youtu.be/gHu2oYoTqiI">Video</a>
 </div>
 </li>
 
@@ -33,14 +50,6 @@ author_profile: true
 <div class="description">
   <a href="https://arxiv.org/pdf/2310.04781.pdf">Paper</a>
   <a href="https://youtu.be/35sX9C1wUpA">Video</a>
-</div>
-</li>
-
-<li>
-<div class="title">Visual Geo-localization with Self-supervised Representation Learning</div>
-<div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
-<div class="description">
-  <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
 </div>
 </li>
 
@@ -80,7 +89,7 @@ author_profile: true
 <li>
 <div class="title">Multi-Robot Collaborative Perception with Graph Neural Networks</div>
 <div class="description">Y. Zhou, <u>J. Xiao</u>, Y. Zhou, G. Loianno</div>
-<div class="description"><em>IEEE Robotics and Automation Letters</em></div>
+<div class="description"><em>IEEE Robotics and Automation Letters (RA-L)</em></div>
 <div class="description">
   <a href="https://arxiv.org/abs/2201.01760.pdf">Paper</a>
   <a href="https://www.youtube.com/watch?v=2bdhLI3dqo0">Video</a>
@@ -112,4 +121,5 @@ author_profile: true
 <li><div class="description">IEEE International Conference on Robotics and Automation (ICRA) 2024</div></li>
 <li><div class="description">IEEE International Conference on Intelligent Robots and Systems (IROS) 2024</div></li>
 <li><div class="description">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024</div></li>
+<li><div class="description">Annual AAAI Conference on Artificial Intelligence (AAAI) 2025</div></li>
 </ul>

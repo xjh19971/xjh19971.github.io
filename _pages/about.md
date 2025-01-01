@@ -22,6 +22,9 @@ Prior to that, I earned my Bachelor's degree in Engineering from the **Departmen
 
 <p class="aboutme">
 <ul style="list-style-type:square">
+  <li><strong>Nov, 2024</strong>. 
+    <a href="https://arxiv.org/abs/2308.00090" target="_blank">Paper</a> accepted in WACV 2025.
+  </li>
   <li><strong>Aug, 2024</strong>. 
     <a href="https://arxiv.org/abs/2405.20470" target="_blank">Paper</a> accepted in RA-L.
   </li>
