@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Introduction
-
 My name is Jiuhong Xiao. I am currently pursuing my Ph.D. at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/){:target="_blank"}, Tandon School of Engineering, New York University, under the guidance of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno){:target="_blank"}. My research focuses on developing advanced algorithms for **robotic perception and localization**, with the focus on **multi-modal image alignment** with **retrieval-based** and **homography-based** methods.
 
 I hold a master's degree in Computer Science from New York University. In the summer of 2020, I worked as a research assistant under [Prof. Alfredo Canziani](https://atcold.github.io/){:target="_blank"} and [Prof. Yann LeCun](https://yann.lecun.com/){:target="_blank"}, focusing on autonomous driving perception and control projects. After graduating with my master's degree, I joined Amazon as an applied scientist, where I contributed to the development of the [Just Walk Out (JWO)](https://www.justwalkout.com/){:target="_blank"} technology for nine months.
@@ -42,14 +40,5 @@ Prior to that, I earned my bachelor's degree in Engineering from the Department 
   </li>
 </ul>
 </p>
-
----
-
-## Contact
-
-Feel free to reach out if you’re interested in collaboration or just want to connect:
-- **Email**: [jx1190@nyu.edu](mailto:jx1190@nyu.edu)  
-<!-- You can add any social media or GitHub links here -->
-<!-- e.g., [GitHub](https://github.com/YourUsername) | [LinkedIn](#) -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=-MWEhEwXL18-z6a71He_v6wDa3SbINMR5BwKBAOMCJk&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
