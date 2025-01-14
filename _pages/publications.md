@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Researches"
-permalink: /researches/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For the latest list of publications, please visit my <a href="https://scholar.google.com/citations?user=od85DowAAAAJ&hl=en">Google Scholar profile</a>.
 
 {% include base_path %}
 

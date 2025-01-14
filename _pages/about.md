@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiuhong Xiao. I am currently pursuing my Ph.D. at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/){:target="_blank"}, Tandon School of Engineering, New York University, under the guidance of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno){:target="_blank"}. My research focuses on developing advanced algorithms for **robotic perception and localization**, with the focus on **multi-modal image alignment** with **retrieval-based** and **homography-based** methods.
+My name is Jiuhong Xiao. I am currently pursuing my Ph.D. at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/){:target="_blank"}, Tandon School of Engineering, New York University, under the guidance of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno){:target="_blank"}. My research focuses on address the challenges of **multi-modal image alignment** for the applications on **robotic perception and localization** systems.
 
 I hold a master's degree in Computer Science from New York University. In the summer of 2020, I worked as a research assistant under [Prof. Alfredo Canziani](https://atcold.github.io/){:target="_blank"} and [Prof. Yann LeCun](https://yann.lecun.com/){:target="_blank"}, focusing on autonomous driving perception and control projects. After graduating with my master's degree, I joined Amazon as an applied scientist, where I contributed to the development of the [Just Walk Out (JWO)](https://www.justwalkout.com/){:target="_blank"} technology for nine months.
 
 Prior to that, I earned my bachelor's degree in Engineering from the Department of Automation at the University of Science and Technology Beijing. In my final undergraduate year, I served as a research assistant at the [Intelligent Biomimetic Design Laboratory (IBDLab)](http://en.ibdl.pku.edu.cn/){:target="_blank"}, Peking University, working on my undergraduate thesis.
+
+---
+
+## Research
+
 
 ---
 
