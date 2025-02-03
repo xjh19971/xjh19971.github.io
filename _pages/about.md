@@ -25,6 +25,9 @@ Prior to that, I earned my bachelor's degree in Engineering from the Department 
 
 <p class="aboutme">
 <ul style="list-style-type:square">
+  <li><strong>Jan, 2025</strong>. 
+    Gave a lightning talk on <a href="https://cs.nyu.edu/~fouhey/NYCVision2025/" target="_blank">NYC Vision Day 2025</a>.
+  </li>
   <li><strong>Nov, 2024</strong>. 
     <a href="https://arxiv.org/abs/2308.00090" target="_blank">Paper</a> accepted in WACV 2025.
   </li>
