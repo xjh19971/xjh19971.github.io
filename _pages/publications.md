@@ -14,6 +14,16 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <ul style="list-style-type:square">
 
 <li>
+<div class="title">UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization</div>
+<div class="description"><u>J. Xiao</u>, G. Loianno</div>
+<div class="description"><em>International Conference on Robotics and Automation (ICRA)</em></div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2502.01035.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/UASTHN">Code</a>
+</div>
+</li>
+
+<li>
 <div class="title">VG-SSL: Benchmarking Self-supervised Representation Learning Approaches for Visual Geo-localization</div>
 <div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
 <div class="description"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</em></div>
