@@ -18,6 +18,16 @@ Prior to that, I earned my bachelor's degree in Engineering from the Department 
 
 ## Research
 
+### UAV Satellite-Thermal Geo-localization
+<img src="/assets/gif/1.gif" alt="UAV Satellite-Thermal Geo-localization" style="width:100%">
+<img src="/assets/gif/2.gif" alt="UAV Satellite-Thermal Geo-localization" style="width:100%">
+
+Multi-modal image alignment is critical for UAV thermal geo-localization, especially in nighttime scenarios where GPS may be unavailable. Our research focuses on aligning onboard thermal imagery with reference satellite maps, leveraging techniques such as image matching, homography-based alignment, and uncertainty estimation. These approaches enable real-time, robust localization across a wide range of challenging environments even trained with limited multi-modal paired data.
+
+**Related Research:**  
+- **STGL (Image Matching):** [Project](https://xjh19971.github.io/STGL/)  
+- **STHN (Homography-Based Alignment):** [Project](https://xjh19971.github.io/STHN/)  
+- **UASTHN (Uncertainty-Aware Alignment):** [Project](https://xjh19971.github.io/UASTHN/)  
 
 ---
 
