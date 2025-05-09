@@ -35,6 +35,9 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 
 <p class="aboutme">
 <ul style="list-style-type:square">
+  <li><strong>May, 2025</strong>. 
+    Honored to have been awarded the Dr. Li Annual ECE Publication Award.
+  </li>
   <li><strong>Feb, 2025</strong>. 
     Gave a lightning talk on <a href="https://cs.nyu.edu/~fouhey/NYCVision2025/" target="_blank">NYC Vision Day 2025</a>.
   </li>
