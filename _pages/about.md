@@ -33,36 +33,21 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 
 ## Latest News
 
-<p class="aboutme">
-<ul style="list-style-type:square">
-  <li><strong>May, 2025</strong>. 
-    Honored to have been awarded the Dr. Li Annual ECE Publication Award.
-  </li>
-  <li><strong>Feb, 2025</strong>. 
-    Gave a lightning talk on <a href="https://cs.nyu.edu/~fouhey/NYCVision2025/" target="_blank">NYC Vision Day 2025</a>.
-  </li>
-  <li><strong>Jan, 2025</strong>. 
-    <a href="https://arxiv.org/abs/2502.01035" target="_blank">Paper</a> accepted in ICRA 2025.
-  </li> 
-  <li><strong>Nov, 2024</strong>. 
-    <a href="https://arxiv.org/abs/2308.00090" target="_blank">Paper</a> accepted in WACV 2025.
-  </li>
-  <li><strong>Aug, 2024</strong>. 
-    <a href="https://arxiv.org/abs/2405.20470" target="_blank">Paper</a> accepted in RA-L.
-  </li>
-  <li><strong>Jan, 2024</strong>. 
-    <a href="https://arxiv.org/abs/2310.04781" target="_blank">Paper</a> accepted in ICRA 2024.
-  </li>
-  <li><strong>Oct, 2023</strong>. 
-    <a href="https://arxiv.org/abs/2310.04781" target="_blank">Paper</a> featured on 
-    <a href="https://spectrum.ieee.org/video-friday-strandbeest-2" target="_blank">IEEE Spectrum</a>.
-  </li>
-  <li><strong>Jun, 2023</strong>. 
-    <a href="https://arxiv.org/abs/2306.02994" target="_blank">Paper</a> accepted in IROS 2023.
-  </li>
-  <li><strong>Sep, 2022</strong>. Joined the Agile Robotics and Perception Lab.
-  </li>
-</ul>
-</p>
+<div class="aboutme">
+  <ul style="list-style-type: square;">
+    <li><strong>May 2025</strong>: Co-hosted the <a href="https://sites.google.com/view/r4rworkshop/home" target="_blank">Rust-for-Robotics Workshop</a> at ICRA 2025.</li>
+    <li><strong>May 2025</strong>: Received the ICRA 2025 RAS Travel Grant.</li>
+    <li><strong>May 2025</strong>: Best Poster Award Finalist at the Thermal Infrared in Robotics Workshop, ICRA 2025, for our <a href="https://arxiv.org/abs/2502.01035" target="_blank">paper</a>.</li>
+    <li><strong>May 2025</strong>: Awarded the Dr. Li Annual ECE Publication Award.</li>
+    <li><strong>Feb 2025</strong>: Presented a lightning talk at <a href="https://cs.nyu.edu/~fouhey/NYCVision2025/" target="_blank">NYC Vision Day 2025</a>.</li>
+    <li><strong>Jan 2025</strong>: <a href="https://arxiv.org/abs/2502.01035" target="_blank">Paper</a> accepted at ICRA 2025.</li>
+    <li><strong>Nov 2024</strong>: <a href="https://arxiv.org/abs/2308.00090" target="_blank">Paper</a> accepted at WACV 2025.</li>
+    <li><strong>Aug 2024</strong>: <a href="https://arxiv.org/abs/2405.20470" target="_blank">Paper</a> accepted in RA-L.</li>
+    <li><strong>Jan 2024</strong>: <a href="https://arxiv.org/abs/2310.04781" target="_blank">Paper</a> accepted at ICRA 2024.</li>
+    <li><strong>Oct 2023</strong>: <a href="https://arxiv.org/abs/2310.04781" target="_blank">Paper</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2" target="_blank">IEEE Spectrum</a>.</li>
+    <li><strong>Jun 2023</strong>: <a href="https://arxiv.org/abs/2306.02994" target="_blank">Paper</a> accepted at IROS 2023.</li>
+    <li><strong>Sep 2022</strong>: Joined the Agile Robotics and Perception Lab.</li>
+  </ul>
+</div>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=-MWEhEwXL18-z6a71He_v6wDa3SbINMR5BwKBAOMCJk&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
