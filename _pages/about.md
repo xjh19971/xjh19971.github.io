@@ -33,6 +33,7 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 
 **Related Research:**  
 - **VG-SSL (Self-supervised Learning):** [Project](https://xjh19971.github.io/VG-SSL)  
+- **QAA (Enhanced Aggregation for Multi-Dataset Training):** [Project](https://xjh19971.github.io/QAA)  
 
 ---
 
