@@ -29,6 +29,11 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 - **STHN (Homography-Based Alignment):** [Project](https://xjh19971.github.io/STHN/)  
 - **UASTHN (Uncertainty-Aware Alignment):** [Project](https://xjh19971.github.io/UASTHN/)  
 
+### Robust Visual Place Recognition
+
+**Related Research:**  
+- **VG-SSL (Self-supervised Learning):** [Project](https://xjh19971.github.io/VG-SSL)  
+
 ---
 
 ## Latest News
