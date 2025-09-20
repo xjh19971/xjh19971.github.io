@@ -28,6 +28,7 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 - **STGL (Image Matching):** [Project](https://xjh19971.github.io/STGL/)  
 - **STHN (Homography-Based Alignment):** [Project](https://xjh19971.github.io/STHN/)  
 - **UASTHN (Uncertainty-Aware Alignment):** [Project](https://xjh19971.github.io/UASTHN/)  
+- **ThermalGen (Style-Disentagled RGB-Thermal Image Generation):** [Project](https://xjh19971.github.io/ThermalGen/)  
 
 ---
 
