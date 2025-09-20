@@ -14,6 +14,17 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <ul style="list-style-type:square">
 
 <li>
+<div class="title">ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation</div>
+<div class="description"><u>J. Xiao</u>, R. Nayak, N. Zhang, D. Tortei, G. Loianno</div>
+<div class="description"><em>Advances in Neural Information Processing Systems (NeurIPS)</em></div>
+<div class="description">
+  <a href="https://xjh19971.github.io/ThermalGen/">Project</a>
+  <a href="https://www.arxiv.org/abs/2507.03831.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/ThermalGen">Code</a>
+</div>
+</li>
+
+<li>
 <div class="title">Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition</div>
 <div class="description"><u>J. Xiao</u>, Y. Zhou, G. Loianno</div>
 <!-- <div class="description"><em>International Conference on Robotics and Automation (ICRA)</em></div> -->
