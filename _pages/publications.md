@@ -14,6 +14,17 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <ul style="list-style-type:square">
 
 <li>
+<div class="title">Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition</div>
+<div class="description"><u>J. Xiao</u>, Y. Zhou, G. Loianno</div>
+<!-- <div class="description"><em>International Conference on Robotics and Automation (ICRA)</em></div> -->
+<div class="description">
+  <a href="https://xjh19971.github.io/QAA/">Project</a>
+  <a href="https://www.arxiv.org/abs/2507.03831.pdf">Paper</a>
+  <!-- <a href="https://github.com/arplaboratory/UASTHN">Code</a> -->
+</div>
+</li>
+
+<li>
 <div class="title">UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization</div>
 <div class="description"><u>J. Xiao</u>, G. Loianno</div>
 <div class="description"><em>International Conference on Robotics and Automation (ICRA)</em></div>
@@ -29,6 +40,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <div class="description"><u>J. Xiao</u>, G. Zhu, G. Loianno</div>
 <div class="description"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</em></div>
 <div class="description">
+  <a href="https://xjh19971.github.io/VG-SSL/">Project</a>
   <a href="https://arxiv.org/pdf/2308.00090.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/VG-SSL">Code</a>
 </div>
