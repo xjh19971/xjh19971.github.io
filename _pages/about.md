@@ -42,8 +42,8 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 
 <div class="aboutme">
   <ul style="list-style-type: square;">
-    <li><strong>May 2025</strong>: <a href="https://arxiv.org/abs/2502.01035" target="_blank">Paper</a> accepted at NeurIPS 2025.</li>
-    <li><strong>May 2025</strong>: Joined Amazon as an Applied Scientist Intern in Summer 2025.</li>
+    <li><strong>Sep 2025</strong>: <a href="https://arxiv.org/abs/2502.01035" target="_blank">Paper</a> accepted at NeurIPS 2025.</li>
+    <li><strong>Jul 2025</strong>: Joined Amazon as an Applied Scientist Intern in Summer 2025.</li>
     <li><strong>May 2025</strong>: Co-hosted the <a href="https://sites.google.com/view/r4rworkshop/home" target="_blank">Rust-for-Robotics Workshop</a> at ICRA 2025.</li>
     <li><strong>May 2025</strong>: Received the ICRA 2025 RAS Travel Grant.</li>
     <li><strong>May 2025</strong>: Best Poster Award Finalist at the Thermal Infrared in Robotics Workshop, ICRA 2025, for our <a href="https://arxiv.org/abs/2502.01035" target="_blank">paper</a>.</li>
