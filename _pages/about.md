@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jiuhong Xiao. I am currently pursuing my Ph.D. at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/){:target="_blank"}, Tandon School of Engineering, New York University, under the guidance of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno){:target="_blank"}. My research focuses on addressing the challenges of **multi-modal image alignment** for the applications on **robotic perception and localization** systems.
 
-I hold a master's degree in Computer Science from New York University. In the summer of 2020, I worked as a research assistant under [Prof. Alfredo Canziani](https://atcold.github.io/){:target="_blank"} and [Prof. Yann LeCun](https://yann.lecun.com/){:target="_blank"}, focusing on autonomous driving perception and control projects. After graduating with my master's degree, I joined Amazon as an applied scientist, where I contributed to the development of the [Just Walk Out (JWO)](https://www.justwalkout.com/){:target="_blank"} technology.
+I hold a master's degree in Computer Science from New York University. In the summer of 2020, I worked as a research assistant under [Prof. Alfredo Canziani](https://atcold.github.io/){:target="_blank"} and [Prof. Yann LeCun](https://yann.lecun.com/){:target="_blank"}, focusing on autonomous driving perception and control projects. After graduating with my master's degree, I joined Amazon as an applied scientist, where I contributed to the development of the [Just Walk Out (JWO)](https://www.justwalkout.com/){:target="_blank"} technology. I also completed multiple internships at Amazon, working on the Amazon One and Amazon DashCart projects.
 
 Prior to that, I earned my bachelor's degree in Engineering from the Department of Automation at the University of Science and Technology Beijing. In my final undergraduate year, I served as a research assistant at the [Intelligent Biomimetic Design Laboratory (IBDLab)](http://en.ibdl.pku.edu.cn/){:target="_blank"}, Peking University, working on my undergraduate thesis.
 
@@ -42,6 +42,7 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 
 <div class="aboutme">
   <ul style="list-style-type: square;">
+    <li><strong>May 2025</strong>: Joined Amazon as an Applied Scientist Intern in Summer 2025.</li>
     <li><strong>May 2025</strong>: Co-hosted the <a href="https://sites.google.com/view/r4rworkshop/home" target="_blank">Rust-for-Robotics Workshop</a> at ICRA 2025.</li>
     <li><strong>May 2025</strong>: Received the ICRA 2025 RAS Travel Grant.</li>
     <li><strong>May 2025</strong>: Best Poster Award Finalist at the Thermal Infrared in Robotics Workshop, ICRA 2025, for our <a href="https://arxiv.org/abs/2502.01035" target="_blank">paper</a>.</li>
