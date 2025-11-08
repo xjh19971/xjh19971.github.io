@@ -28,13 +28,23 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 - **STGL (Image Matching):** [Project](https://xjh19971.github.io/STGL/)  
 - **STHN (Homography-Based Alignment):** [Project](https://xjh19971.github.io/STHN/)  
 - **UASTHN (Uncertainty-Aware Alignment):** [Project](https://xjh19971.github.io/UASTHN/)  
-- **ThermalGen (Style-Disentagled RGB-Thermal Image Generation):** [Project](https://xjh19971.github.io/ThermalGen/)  
 
-### Robust Visual Place Recognition
+### Multi-modal Generative Model
+<img width="1971" height="1188" alt="image" src="https://github.com/user-attachments/assets/74ddec24-f492-48fa-af73-a06efaca6b2d" />
+
+We investigate cross-domain generation to bridge modality gaps, such as synthesizing thermal imagery from RGB inputs and vice versa. By disentangling content and style representations, our models can generate photorealistic, geometrically consistent images across modalities, supporting data augmentation and domain adaptation for downstream localization tasks.
+
+**Related Research:**  
+- **ThermalGen (Style-Disentagled RGB-Thermal Image Generation):** [Project](https://xjh19971.github.io/ThermalGen/)
+
+### Ground-view Visual Geo-localization
+<img width="1505" height="892" alt="image" src="https://github.com/user-attachments/assets/013f7151-9c47-4b99-b4df-baa1322eded1" />
+
+Ground-view geo-localization focuses on matching street-level or ground-perspective images to satellite maps for precise position estimation. Our work develops self-supervised and cross-dataset learning strategies that enhance feature robustness and scalability across varying viewpoints and lighting conditions.
 
 **Related Research:**  
 - **VG-SSL (Self-supervised Learning):** [Project](https://xjh19971.github.io/VG-SSL)  
-- **QAA (Enhanced Aggregation for Multi-Dataset Training):** [Project](https://xjh19971.github.io/QAA)  
+- **QAA (Enhanced Aggregation for Multi-Dataset Training):** [Project](https://xjh19971.github.io/QAA)
 
 ---
 
