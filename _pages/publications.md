@@ -24,6 +24,8 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 </div>
 </li>
 
+</ul>
+
 ## 2025
 
 <ul style="list-style-type:square">
