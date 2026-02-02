@@ -9,6 +9,21 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 
 {% include base_path %}
 
+## 2026
+
+<ul style="list-style-type:square">
+
+<li>
+<div class="title">Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition</div>
+<div class="description"><u>J. Xiao</u>, Y. Zhou, G. Loianno</div>
+<div class="description"><em>International Conference on Robotics and Automation (ICRA)</em></div>
+<div class="description">
+  <a href="https://xjh19971.github.io/QAA/">Project</a>
+  <a href="https://www.arxiv.org/abs/2507.03831.pdf">Paper</a>
+  <a href="https://github.com/arplaboratory/QAA">Code</a>
+</div>
+</li>
+
 ## 2025
 
 <ul style="list-style-type:square">
@@ -21,17 +36,6 @@ For the latest list of publications, please visit my <a href="https://scholar.go
   <a href="https://xjh19971.github.io/ThermalGen/">Project</a>
   <a href="https://www.arxiv.org/abs/2507.03831.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/ThermalGen">Code</a>
-</div>
-</li>
-
-<li>
-<div class="title">Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition</div>
-<div class="description"><u>J. Xiao</u>, Y. Zhou, G. Loianno</div>
-<!-- <div class="description"><em>International Conference on Robotics and Automation (ICRA)</em></div> -->
-<div class="description">
-  <a href="https://xjh19971.github.io/QAA/">Project</a>
-  <a href="https://www.arxiv.org/abs/2507.03831.pdf">Paper</a>
-  <!-- <a href="https://github.com/arplaboratory/UASTHN">Code</a> -->
 </div>
 </li>
 

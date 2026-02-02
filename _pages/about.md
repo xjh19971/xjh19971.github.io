@@ -52,8 +52,9 @@ Ground-view geo-localization focuses on matching street-level or ground-perspect
 
 <div class="aboutme">
   <ul style="list-style-type: square;">
+    <li><strong>Jan 2026</strong>: <a href="https://www.arxiv.org/abs/2507.03831" target="_blank">Paper</a> accepted at ICRA 2026.</li>
     <li><strong>Oct 2025</strong>: Received the NeurIPS 2025 Scholar Award (travel grant).</li>
-    <li><strong>Sep 2025</strong>: <a href="https:/www.arxiv.org/abs/2509.24878" target="_blank">Paper</a> accepted at NeurIPS 2025.</li>
+    <li><strong>Sep 2025</strong>: <a href="https://www.arxiv.org/abs/2509.24878" target="_blank">Paper</a> accepted at NeurIPS 2025.</li>
     <li><strong>Jul 2025</strong>: Joined Amazon as an Applied Scientist Intern in Summer 2025.</li>
     <li><strong>May 2025</strong>: Co-hosted the <a href="https://sites.google.com/view/r4rworkshop/home" target="_blank">Rust-for-Robotics Workshop</a> at ICRA 2025.</li>
     <li><strong>May 2025</strong>: Received the ICRA 2025 RAS Travel Grant.</li>
