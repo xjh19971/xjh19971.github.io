@@ -36,7 +36,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <div class="description"><em>Advances in Neural Information Processing Systems (NeurIPS)</em></div>
 <div class="description">
   <a href="https://xjh19971.github.io/ThermalGen/">Project</a>
-  <a href="https://www.arxiv.org/abs/2507.03831.pdf">Paper</a>
+  <a href="https://www.arxiv.org/abs/2509.24878.pdf">Paper</a>
   <a href="https://github.com/arplaboratory/ThermalGen">Code</a>
 </div>
 </li>
