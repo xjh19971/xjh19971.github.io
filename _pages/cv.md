@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="../assets/pdf/Jiuhong_Xiao_CV.pdf" width="500" height="375" 
+<embed src="../assets/pdf/Jiuhong_Xiao_CV.pdf" width="100%" height="800"
  type="application/pdf">

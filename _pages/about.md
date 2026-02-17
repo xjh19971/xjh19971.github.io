@@ -35,7 +35,7 @@ Multi-modal image alignment is critical for UAV thermal geo-localization, especi
 We investigate cross-domain generation to bridge modality gaps, such as synthesizing thermal imagery from RGB inputs and vice versa. By disentangling content and style representations, our models can generate photorealistic, geometrically consistent images across modalities, supporting data augmentation and domain adaptation for downstream localization tasks.
 
 **Related Research:**  
-- **ThermalGen (Style-Disentagled RGB-Thermal Image Generation):** [Project](https://xjh19971.github.io/ThermalGen/)
+- **ThermalGen (Style-Disentangled RGB-Thermal Image Generation):** [Project](https://xjh19971.github.io/ThermalGen/)
 
 ### Ground-view Visual Geo-localization
 <img width="1505" height="892" alt="image" src="https://github.com/user-attachments/assets/013f7151-9c47-4b99-b4df-baa1322eded1" />
