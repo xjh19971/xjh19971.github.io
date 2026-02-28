@@ -74,6 +74,7 @@ social:
     - "https://github.com/xjh19971"
     - "https://www.linkedin.com/in/jiuhong-xiao-01bb4a1a1"
     - "https://twitter.com/xjiuhong"
+    - "https://orcid.org/0000-0002-7574-398X"
 
 
 # Analytics
@@ -108,7 +109,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jiuhong-xiao-01bb4a1a1"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-7574-398X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
