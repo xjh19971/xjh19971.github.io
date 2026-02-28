@@ -1,18 +1,9 @@
 ---
 layout: null
+sitemap: false
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for page in site.pages %}
-    {% unless page.sitemap == false or page.url contains "feed.xml" or page.url contains "sitemap.xml" or page.url contains "robots.txt" or page.url contains "google826c4a48d37f23ac" %}
-    <url>
-      <loc>{{ site.url }}{{ page.url | replace: "index.html", "" }}</loc>
-      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-    </url>
-    {% endunless %}
-  {% endfor %}
-
-  <!-- Project pages (hosted from separate repos) -->
   <url>
     <loc>https://xjh19971.github.io/VG-SSL/</loc>
   </url>
