@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiuhong Xiao. I am currently pursuing my Ph.D. at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/){:target="_blank"}, Tandon School of Engineering, New York University, under the guidance of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno){:target="_blank"}. My research focuses on addressing the challenges of **multi-modal image alignment** for the applications on **robotic perception and localization** systems.
+My name is Jiuhong Xiao. I am currently pursuing my Ph.D. at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/){:target="_blank"}, Tandon School of Engineering, New York University, under the guidance of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno){:target="_blank"}. My research focuses on addressing the challenges of **multi-modal image alignment** and **data synthesis** for the applications on **robotic perception and localization** systems.
 
 I hold a master's degree in Computer Science from New York University. In the summer of 2020, I worked as a research assistant under [Prof. Alfredo Canziani](https://atcold.github.io/){:target="_blank"} and [Prof. Yann LeCun](https://yann.lecun.com/){:target="_blank"}, focusing on autonomous driving perception and control projects. After graduating with my master's degree, I joined Amazon as an applied scientist, where I contributed to the development of the [Just Walk Out (JWO)](https://www.justwalkout.com/){:target="_blank"} technology. I also completed multiple internships at Amazon, working on the Amazon One and Amazon DashCart projects.
 
@@ -50,23 +50,24 @@ Ground-view geo-localization focuses on matching street-level or ground-perspect
 
 ## Latest News
 
-<div class="aboutme">
+<div class="aboutme-news">
   <ul style="list-style-type: square;">
-    <li><strong>Jan 2026</strong>: <a href="https://www.arxiv.org/abs/2507.03831" target="_blank">Paper</a> accepted at ICRA 2026.</li>
-    <li><strong>Oct 2025</strong>: Received the NeurIPS 2025 Scholar Award (travel grant).</li>
-    <li><strong>Sep 2025</strong>: <a href="https://www.arxiv.org/abs/2509.24878" target="_blank">Paper</a> accepted at NeurIPS 2025.</li>
-    <li><strong>Jul 2025</strong>: Joined Amazon as an Applied Scientist Intern in Summer 2025.</li>
-    <li><strong>May 2025</strong>: Co-hosted the <a href="https://sites.google.com/view/r4rworkshop/home" target="_blank">Rust-for-Robotics Workshop</a> at ICRA 2025.</li>
+    <li><strong>Jan 2026</strong>: <a href="https://www.arxiv.org/abs/2507.03831" target="_blank" rel="noopener noreferrer">Paper</a> accepted at ICRA 2026.</li>
+    <li><strong>Nov 2025</strong>: Started as a Visiting Student Researcher at UC Berkeley.</li>
+    <li><strong>Oct 2025</strong>: Received the NeurIPS 2025 Scholar Award (Travel Grant).</li>
+    <li><strong>Sep 2025</strong>: <a href="https://www.arxiv.org/abs/2509.24878" target="_blank" rel="noopener noreferrer">Paper</a> accepted at NeurIPS 2025.</li>
+    <li><strong>Jul 2025</strong>: Joined Amazon as an Applied Scientist Intern.</li>
+    <li><strong>May 2025</strong>: Co-hosted the <a href="https://sites.google.com/view/r4rworkshop/home" target="_blank" rel="noopener noreferrer">Rust-for-Robotics Workshop</a> at ICRA 2025.</li>
     <li><strong>May 2025</strong>: Received the ICRA 2025 RAS Travel Grant.</li>
-    <li><strong>May 2025</strong>: Best Poster Award Finalist at the Thermal Infrared in Robotics Workshop, ICRA 2025, for our <a href="https://arxiv.org/abs/2502.01035" target="_blank">paper</a>.</li>
+    <li><strong>May 2025</strong>: Named Best Poster Award Finalist at the Thermal Infrared in Robotics Workshop, ICRA 2025, for our <a href="https://arxiv.org/abs/2502.01035" target="_blank" rel="noopener noreferrer">paper</a>.</li>
     <li><strong>May 2025</strong>: Awarded the Dr. Li Annual ECE Publication Award.</li>
-    <li><strong>Feb 2025</strong>: Presented a lightning talk at <a href="https://cs.nyu.edu/~fouhey/NYCVision2025/" target="_blank">NYC Vision Day 2025</a>.</li>
-    <li><strong>Jan 2025</strong>: <a href="https://arxiv.org/abs/2502.01035" target="_blank">Paper</a> accepted at ICRA 2025.</li>
-    <li><strong>Nov 2024</strong>: <a href="https://arxiv.org/abs/2308.00090" target="_blank">Paper</a> accepted at WACV 2025.</li>
-    <li><strong>Aug 2024</strong>: <a href="https://arxiv.org/abs/2405.20470" target="_blank">Paper</a> accepted in RA-L.</li>
-    <li><strong>Jan 2024</strong>: <a href="https://arxiv.org/abs/2310.04781" target="_blank">Paper</a> accepted at ICRA 2024.</li>
-    <li><strong>Oct 2023</strong>: <a href="https://arxiv.org/abs/2310.04781" target="_blank">Paper</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2" target="_blank">IEEE Spectrum</a>.</li>
-    <li><strong>Jun 2023</strong>: <a href="https://arxiv.org/abs/2306.02994" target="_blank">Paper</a> accepted at IROS 2023.</li>
+    <li><strong>Feb 2025</strong>: Presented a lightning talk at <a href="https://cs.nyu.edu/~fouhey/NYCVision2025/" target="_blank" rel="noopener noreferrer">NYC Vision Day 2025</a>.</li>
+    <li><strong>Jan 2025</strong>: <a href="https://arxiv.org/abs/2502.01035" target="_blank" rel="noopener noreferrer">Paper</a> accepted at ICRA 2025.</li>
+    <li><strong>Nov 2024</strong>: <a href="https://arxiv.org/abs/2308.00090" target="_blank" rel="noopener noreferrer">Paper</a> accepted at WACV 2025.</li>
+    <li><strong>Aug 2024</strong>: <a href="https://arxiv.org/abs/2405.20470" target="_blank" rel="noopener noreferrer">Paper</a> accepted to IEEE Robotics and Automation Letters (RA-L).</li>
+    <li><strong>Jan 2024</strong>: <a href="https://arxiv.org/abs/2310.04781" target="_blank" rel="noopener noreferrer">Paper</a> accepted at ICRA 2024.</li>
+    <li><strong>Oct 2023</strong>: <a href="https://arxiv.org/abs/2310.04781" target="_blank" rel="noopener noreferrer">Paper</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2" target="_blank" rel="noopener noreferrer">IEEE Spectrum</a>.</li>
+    <li><strong>Jun 2023</strong>: <a href="https://arxiv.org/abs/2306.02994" target="_blank" rel="noopener noreferrer">Paper</a> accepted at IROS 2023.</li>
     <li><strong>Sep 2022</strong>: Joined the Agile Robotics and Perception Lab.</li>
   </ul>
 </div>
