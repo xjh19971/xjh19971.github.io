@@ -66,9 +66,14 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Jiuhong Xiao"
+  links:
+    - "https://scholar.google.com/citations?user=od85DowAAAAJ&hl=en"
+    - "https://www.researchgate.net/profile/Jiuhong-Xiao-2"
+    - "https://github.com/xjh19971"
+    - "https://www.linkedin.com/in/jiuhong-xiao-01bb4a1a1"
+    - "https://twitter.com/xjiuhong"
 
 
 # Analytics

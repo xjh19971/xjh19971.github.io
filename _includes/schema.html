@@ -1,0 +1,286 @@
+{% include base_path %}
+
+{% if site.url %}
+  {% assign seo_url = site.url | append: site.baseurl %}
+{% endif %}
+{% assign seo_url = seo_url | default: site.github.url %}
+
+<!-- Person Schema (main identity) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ seo_url }}/#person",
+  "name": "Jiuhong Xiao",
+  "givenName": "Jiuhong",
+  "familyName": "Xiao",
+  "url": "{{ seo_url }}",
+  "image": "{{ seo_url }}/images/profile.jpg",
+  "email": "mailto:jx1190@nyu.edu",
+  "jobTitle": "PhD Student in Robotics",
+  "description": "Robotics PhD student at New York University specializing in multi-modal image alignment, data synthesis, and robotic perception and localization.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "New York University",
+    "url": "https://www.nyu.edu",
+    "department": {
+      "@type": "Organization",
+      "name": "Agile Robotics and Perception Lab (ARPL)",
+      "url": "https://wp.nyu.edu/arpl/"
+    }
+  },
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "New York University Tandon School of Engineering"
+    },
+    {
+      "@type": "Organization",
+      "name": "UC Berkeley",
+      "description": "Visiting Student Researcher"
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "New York University",
+      "url": "https://www.nyu.edu"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Science and Technology Beijing"
+    }
+  ],
+  "knowsAbout": [
+    "Robotics",
+    "Computer Vision",
+    "Deep Learning",
+    "UAV Geo-localization",
+    "Multi-modal Image Alignment",
+    "Thermal Imaging",
+    "Homography Estimation",
+    "Visual Place Recognition",
+    "Graph Neural Networks",
+    "Self-supervised Learning"
+  ],
+  "sameAs": [
+    "https://scholar.google.com/citations?user=od85DowAAAAJ&hl=en",
+    "https://www.researchgate.net/profile/Jiuhong-Xiao-2",
+    "https://github.com/xjh19971",
+    "https://www.linkedin.com/in/jiuhong-xiao-01bb4a1a1",
+    "https://twitter.com/xjiuhong"
+  ]
+}
+</script>
+
+<!-- WebSite Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ seo_url }}/#website",
+  "name": "{{ site.title }}",
+  "url": "{{ seo_url }}",
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "description": "{{ site.description }}"
+}
+</script>
+
+<!-- ProfilePage Schema (for the homepage) -->
+{% if page.url == "/" or page.url == "/about/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ seo_url }}{{ page.url }}#profilepage",
+  "mainEntity": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "dateCreated": "2021-01-01",
+  "dateModified": "{{ site.time | date_to_xmlschema }}"
+}
+</script>
+{% endif %}
+
+<!-- Publication CollectionPage Schema -->
+{% if page.url == "/publications/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{ seo_url }}/publications/#collectionpage",
+  "name": "Publications - Jiuhong Xiao",
+  "description": "Research publications by Jiuhong Xiao in robotics, computer vision, and deep learning.",
+  "url": "{{ seo_url }}/publications/",
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": 11,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Yuxiang Zhou"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/abs/2507.03831",
+          "datePublished": "2026",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "International Conference on Robotics and Automation (ICRA)"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Rachit Nayak"},
+            {"@type": "Person", "name": "Ningkai Zhang"},
+            {"@type": "Person", "name": "Davide Tortei"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/abs/2509.24878",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "Advances in Neural Information Processing Systems (NeurIPS)"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "UASTHN: Uncertainty-Aware Deep Homography Estimation for UAV Satellite-Thermal Geo-localization",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/pdf/2502.01035.pdf",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "International Conference on Robotics and Automation (ICRA)"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "VG-SSL: Benchmarking Self-supervised Representation Learning Approaches for Visual Geo-localization",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Guangming Zhu"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/pdf/2308.00090.pdf",
+          "datePublished": "2025",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "STHN: Deep Homography Estimation for UAV Thermal Geo-localization with Satellite Imagery",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Ningkai Zhang"},
+            {"@type": "Person", "name": "Davide Tortei"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/pdf/2405.20470.pdf",
+          "datePublished": "2024",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "IEEE Robotics and Automation Letters (RA-L)"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "Long-range UAV Thermal Geo-localization with Satellite Imagery",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Davide Tortei"},
+            {"@type": "Person", "name": "Enric Roura"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/pdf/2306.02994.pdf",
+          "datePublished": "2023",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "IEEE International Conference on Intelligent Robots and Systems (IROS)"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "Identity Preserving Loss for Learned Image Compression",
+          "author": [
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Lavisha Aggarwal"},
+            {"@type": "Person", "name": "Priyanka Banerjee"},
+            {"@type": "Person", "name": "Manoj Aggarwal"},
+            {"@type": "Person", "name": "Gerard Medioni"}
+          ],
+          "url": "https://arxiv.org/abs/2204.10869.pdf",
+          "datePublished": "2022",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "Multi-Robot Collaborative Perception with Graph Neural Networks",
+          "author": [
+            {"@type": "Person", "name": "Yuxiang Zhou"},
+            {"@type": "Person", "name": "Jiuhong Xiao"},
+            {"@type": "Person", "name": "Yue Zhou"},
+            {"@type": "Person", "name": "Giuseppe Loianno"}
+          ],
+          "url": "https://arxiv.org/abs/2201.01760.pdf",
+          "datePublished": "2022",
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "IEEE Robotics and Automation Letters (RA-L)"
+          }
+        }
+      }
+    ]
+  }
+}
+</script>
+{% endif %}
