@@ -153,7 +153,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - google826c4a48d37f23ac.html
 keep_files:
   - .git
   - .svn
